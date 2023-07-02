@@ -47,4 +47,4 @@ python your\_program\_file.py
 
 This project is licensed under the MIT License. See the
 
-[LICENSE](https://chat.openai.com/LICENSE) file for details.
+[LICENSE](https://github.com/NotJeket/PUBGm-First-Elimination/blob/main/LICENSE) file for details.
