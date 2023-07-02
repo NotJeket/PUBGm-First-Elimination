@@ -32,12 +32,12 @@ data from a local mockup file or a URL.
 
 **Screenshot**
 
-[![](./image1.png)
-](https://github.com/NotJeket/PUBGm-First-Elimination/assets/37781149/25d45e95-b8c6-48b1-990a-757bc9ce0b6f)
+![image1](https://github.com/NotJeket/PUBGm-First-Elimination/assets/37781149/25d45e95-b8c6-48b1-990a-757bc9ce0b6f)
 
 **Diagram**
 
-[![](./image2.png)](https://github.com/NotJeket/PUBGm-First-Elimination/assets/37781149/08413146-3200-4a66-9474-aa1ae7e13d78)
+![image2](https://github.com/NotJeket/PUBGm-First-Elimination/assets/37781149/08413146-3200-4a66-9474-aa1ae7e13d78)
+
 
 **Usage**
 
