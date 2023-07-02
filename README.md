@@ -1,58 +1,50 @@
-**PUBGm First Elimination announcer (KillTower)**
+**PUBGm First Elimination announcer**
 
-KillTower is a program that tracks the live state of players in a PUBG
-mobile game. It displays the live state of each player in a table that
-can be sorted by team and number of live players. The program can read
-data from a local mockup file or a URL.
+This app displays a dynamic kill screen for a gaming app. It retrieves data from an API and shows a customized kill screen when a player gets their first kill. The kill screen includes the player's name, team logo (if available), and a background image.
 
 **Features**
 
--   Display the live state of each player in a table that can be sorted
-    by team and number of live players.
+- Retrieves data from an API to monitor player kills.
+- Displays a customized kill screen when a player gets their first kill.
+- Customizes the kill screen with the player's name, team logo, and background image.
+- Adjusts the font size of the player's name based on its length.
+- Automatically closes the app after 15 seconds of displaying the kill screen.
 
--   Read data from a local mockup file or a URL.
+**Installation**
 
--   Each row of the table displays the logo of the team, the name of the
-    team, and the live state of each player.
+ Clone the repository.
+ Install the required dependencies by running the following command:
 
--   The live state of each player is displayed using icons that
-    represent whether the player is alive, knocked out, or dead.
+pip install dash requests 
 
--   Resize the table based on the content.
+**Usage**
 
--   Utilizes PyQt5 for the user interface.
+1. Make sure you have Python installed on your system.
+1. Open a terminal or command prompt.
+1. Navigate to the directory where the program is located.
+1. Run the program using the following command:
 
--   Cross-platform compatibility: Supports Windows, Linux, and macOS.
 
--   Automatic data updates every 1 second.
 
--   Customizable fonts, backgrounds, and various visual modifications.
+python your\_program\_file.py 
 
--   Support for animations.
+**Dependencies**
+
+- Dash
+- Requests
+
 
 **Screenshot**
 
 ![image1](https://github.com/NotJeket/PUBGm-First-Elimination/assets/37781149/25d45e95-b8c6-48b1-990a-757bc9ce0b6f)
 
-**Diagram**
+**Flowchart**
 
 ![image2](https://github.com/NotJeket/PUBGm-First-Elimination/assets/37781149/08413146-3200-4a66-9474-aa1ae7e13d78)
 
 
-**Usage**
-
-1.  Install Python 3.x on your computer.
-
-2.  Install the required packages by running the following command in
-    your terminal: **pip install PyQt5,requests**.
-
-3.  Clone or download the repository to your computer.
-
-4.  Open a terminal in the directory where you cloned the repository.
-
-5.  Run the program by typing **python killtower.py** in your terminal.
-
 **License**
 
 This project is licensed under the MIT License. See the
+
 [LICENSE](https://chat.openai.com/LICENSE) file for details.
