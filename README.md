@@ -40,7 +40,8 @@ python your\_program\_file.py
 
 **Flowchart**
 
-![image2](https://github.com/NotJeket/PUBGm-First-Elimination/assets/37781149/08413146-3200-4a66-9474-aa1ae7e13d78)
+![code2flow_RDlYWS](https://github.com/NotJeket/PUBGm-First-Elimination/assets/37781149/4ad1debf-d271-43c9-a551-987e1d3a4be6)
+
 
 
 **License**
